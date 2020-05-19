@@ -1,7 +1,7 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Getting started"
 layout: post
-date: 2016-01-23 22:10
+date: 2020-05-19 22:10
 tag: jekyll
 image: false
 headerImage: true
